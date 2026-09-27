@@ -54,6 +54,17 @@ Each run produces:
 
 ---
 
+## Installing Skillfy itself
+
+1. Go to the **latest release** on the repo's Releases page
+2. **Download the `.zip`** for that release
+3. **Extract** the zip on your computer (you should end up with a folder containing `SKILL.md`, and optionally `scripts/`, `references/`, `assets/`)
+4. Open the **skill maker / skill upload page** in Claude
+5. **Drag the extracted folder** (or the `.zip`, depending on what the uploader accepts) into it
+6. **Name it `skillfy`** when prompted
+7. Click **Add** to install it
+8. **Use it** — type `/skillfy <topic>` in any chat to run it
+
 ## Installing a Skillfy-generated skill
 
 1. Save the returned files into a folder matching the skill's `name`
